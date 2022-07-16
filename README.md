@@ -1,2 +1,3 @@
 # analyzing-bank-marketing-campaign-data
-ooking at a Polish company’s bankruptcy data to try and understand the main reasons behind bankruptcy and whether it could be possible to identify early warning signs.
+### analyzing data from the direct marketing campaign of a
+Portuguese banking institution based on phone calls
